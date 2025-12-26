@@ -1,0 +1,19 @@
+# Location Backgrounds
+
+Add background images here with the following names:
+
+- suburban.png     (Suburban Outskirts - Levels 1-3)
+- mall.png         (Derelict Shopping Mall - Levels 4-6)
+- sewers.png       (City Sewers - Levels 7-10)
+- downtown.png     (Downtown Business District - Levels 11-15)
+- police.png       (Abandoned Police Precinct - Levels 16-20)
+- hospital.png     (St. Mary's Hospital - Levels 21-30)
+- industrial.png   (Industrial Zone - Levels 31-40)
+- nuclear.png      (Nuclear Power Plant - Levels 41-50)
+- military.png     (Military Quarantine Zone - Levels 51-60)
+
+Recommended size: 800x280 pixels
+Style: Pixel art or atmospheric backgrounds
+
+Until images are added, gradient placeholders will be used.
+
